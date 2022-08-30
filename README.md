@@ -16,11 +16,11 @@
 
 ## Документация 
 
-[План автоматизации тестирования веб-формы сервиса покупки туров интернет-банка](https://github.com/SergeyPanama/Diplom/reports/Plan.md)
+[План автоматизации тестирования веб-формы сервиса покупки туров интернет-банка](https://github.com/sergeyPapa/DiplomaQALVL/reports/Plan.md)
 
-[Отчёт о проведённом тестировании](https://github.com/SergeyPanama/Diplom/reports/Report.md)
+[Отчёт о проведённом тестировании](https://github.com/sergeyPapa/DiplomaQALVL/reports/Report.md)
 
-[Комплексный отчёт о проведённой автоматизации тестирования](https://github.com/SergeyPanama/Diplom/reports/Summary.md)
+[Комплексный отчёт о проведённой автоматизации тестирования](https://github.com/sergeyPapa/DiplomaQALVL/reports/Summary.md)
 
 
 
@@ -29,7 +29,7 @@
 Перед запуском необходимо выполнить следующие предусловия. Если у вас уже есть необходимое ПО, то понадобится только п.1 и запуск Docker.
 
 *Предусловия:*
-1. Клонировать [репозиторий](https://github.com/SergeyPanama/Diplom).
+1. Клонировать [репозиторий](https://github.com/sergeyPapa/DiplomaQALVL).
 2. Если не установлен Docker Desktop, необходимо его [скачать](https://docs.docker.com/desktop/) и установить.
 3. Запустить Docker Desktop.
 4. Открыть проект в IntelliJ IDEA
