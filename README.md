@@ -16,11 +16,11 @@
 
 ## Документация 
 
-[План автоматизации тестирования веб-формы сервиса покупки туров интернет-банка](https://github.com/sergeyPapa/DiplomaQALVL/reports/Plan.md)
+[План автоматизации тестирования веб-формы сервиса покупки туров интернет-банка](https://github.com/sergeyPapa/DiplomaQALVL/blob/master/reports/Plan.md)
 
-[Отчёт о проведённом тестировании](https://github.com/sergeyPapa/DiplomaQALVL/reports/Report.md)
+[Отчёт о проведённом тестировании](https://github.com/sergeyPapa/DiplomaQALVL/blob/master/reports/Report.md)
 
-[Комплексный отчёт о проведённой автоматизации тестирования](https://github.com/sergeyPapa/DiplomaQALVL/reports/Summary.md)
+[Комплексный отчёт о проведённой автоматизации тестирования](https://github.com/sergeyPapa/DiplomaQALVL/blob/master/reports/Summary.md)
 
 
 
